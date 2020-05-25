@@ -2,7 +2,7 @@
 Egy párfős multiplayer játék, ahol a cél az, hogy minél nagyobb területet színezz be a saját színeddel. Az ötletet egy gyerekkoromban játszott játékból vettem.
 
 ## A játékot bemutató videó linkje:
-https://youtube.com
+https://youtu.be/3DEyIu_3Dkg
 
 ## Forráskód
 A teljes projekt az animus.zip-ben található.
