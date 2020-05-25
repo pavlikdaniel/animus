@@ -1,4 +1,4 @@
-# animus
+# animus (By: Pavlik Dániel)
 Egy párfős multiplayer játék, ahol a cél az, hogy minél nagyobb területet színezz be a saját színeddel. Az ötletet egy gyerekkoromban játszott játékból vettem.
 
 ## A játékot bemutató videó linkje:
