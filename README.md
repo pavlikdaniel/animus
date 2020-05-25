@@ -4,6 +4,9 @@ Egy párfős multiplayer játék, ahol a cél az, hogy minél nagyobb területet
 ## A játékot bemutató videó linkje:
 https://youtube.com
 
+##Forráskód
+A teljes projekt az animus.zip-ben található.
+
 ## A Projekt elkészítéséhez az alábbi technológiákat használtam:
 - HTML - az oldalszerkezethez
 - SCSS a stílushoz (Koala complierrel)
